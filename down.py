@@ -11,8 +11,8 @@ conn = pymysql.connect(host='127.0.0.1',
                        cursorclass=pymysql.cursors.DictCursor)
 cursor = conn.cursor()
 
-headers = {4444
-
+headers = {
+zxc
     'Referer': 'http://sist.swjtu.edu.cn/download.do?action=file',
     'Host': 'sist.swjtu.edu.cn',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; /'
